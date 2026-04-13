@@ -1,0 +1,8 @@
+{
+  "fd_explain": "A Fixed Deposit (FD) is a safe investment where you keep money for a fixed time and earn interest.",
+  "calc_result": "FD Result:\nPrincipal: {p}\nRate: {rate}%\nTime: {tenureYears} years\nInterest: {i}\nMaturity: {m}",
+  "ask_amount": "Please tell amount, rate and time (example: ₹50000 for 2 years at 7%)",
+  "fd_start_flow": "To start an FD, please visit our nearest branch or use the 'Book FD' option in our mobile app. You can also start manually by providing your details here.",
+  "fd_rate_info": "Our current FD interest rates are up to 7.5% per annum for general citizens and 8.0% for senior citizens.",
+  "fallback": "Sorry, something went wrong."
+}

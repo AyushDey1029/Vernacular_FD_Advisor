@@ -1,1 +1,0 @@
-# Vernacular_FD_Advisor
